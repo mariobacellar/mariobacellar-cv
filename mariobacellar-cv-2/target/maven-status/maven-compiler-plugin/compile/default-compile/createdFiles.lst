@@ -1,0 +1,4 @@
+br\com\mariobacellar\presentations\Application.class
+br\com\mariobacellar\presentations\controller\IndexController.class
+br\com\mariobacellar\presentations\controller\FaviconController.class
+br\com\mariobacellar\presentations\config\WebMvcConfig.class
